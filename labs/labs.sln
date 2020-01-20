@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab_03_library_files", "lab
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab_04_debugging", "lab_04_debugging\lab_04_debugging.csproj", "{62C86766-0454-411F-9036-619E4C9F9D5D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab_05_log_to_event_viewer", "lab_05_log_to_event_viewer\lab_05_log_to_event_viewer.csproj", "{1BC75C33-96E3-49DF-AA6D-70A6819948C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{62C86766-0454-411F-9036-619E4C9F9D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62C86766-0454-411F-9036-619E4C9F9D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62C86766-0454-411F-9036-619E4C9F9D5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BC75C33-96E3-49DF-AA6D-70A6819948C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BC75C33-96E3-49DF-AA6D-70A6819948C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BC75C33-96E3-49DF-AA6D-70A6819948C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BC75C33-96E3-49DF-AA6D-70A6819948C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
